@@ -9,7 +9,7 @@
 This assignment uses the Diabetes dataset provided by Scikit-Learn. It contains medical and physiological data of patients, including BMI, age, blood pressure, and more, along with a target indicating diabetes disease progression.
 
 ## Objective
-To build and evaluate models that predict the risk of diabetes progression.
+To build, evaluate and find out best models that predict the risk of diabetes progression.
 
 ## Approach
 The assignment is divided into three parts: univariate polynomial regression, multivariate regression and non-parametric models. Models are evaluated using R-squared, MAE, and MAPE across train, validation, and test sets with proper visualizations and analysis.
